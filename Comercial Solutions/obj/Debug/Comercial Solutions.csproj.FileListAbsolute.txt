@@ -64,3 +64,6 @@ C:\Users\3nR\Documents\GitHub\A-Logistica-Almacen\Comercial Solutions\obj\Debug\
 C:\Users\3nR\Documents\GitHub\A-Logistica-Almacen\Comercial Solutions\obj\Debug\Comercial Solutions.exe
 C:\Users\3nR\Documents\GitHub\A-Logistica-Almacen\Comercial Solutions\obj\Debug\Comercial Solutions.pdb
 C:\Users\3nR\Documents\GitHub\A-Logistica-Almacen\Comercial Solutions\obj\Debug\Comercial Solutions.csprojResolveAssemblyReference.cache
+C:\Users\3nR\Documents\GitHub\A-Logistica-Establecimiento\Comercial Solutions\bin\Debug\Comercial Solutions.exe.config
+C:\Users\3nR\Documents\GitHub\A-Logistica-Establecimiento\Comercial Solutions\obj\Debug\Comercial Solutions.exe
+C:\Users\3nR\Documents\GitHub\A-Logistica-Establecimiento\Comercial Solutions\obj\Debug\Comercial Solutions.pdb
